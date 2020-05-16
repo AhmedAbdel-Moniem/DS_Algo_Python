@@ -1,2 +1,2 @@
 # DS_Algo_Python
-Data Structures And Algorithms in python.
+Data Structures And Algorithms python implementation
